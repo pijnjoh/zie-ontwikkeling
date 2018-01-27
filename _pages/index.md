@@ -16,7 +16,7 @@ intro:
 
 sidebar:
   - title: "WadWerkt"
-    text "pogingkje"
+    text: "pogingkje"
 ---
 stukje tekst omte kijken hoe dat er uit ziet en om te bepalen of ik in de juiste file zit te editen.
 {% include feature_row id="intro" type="center" %}
